@@ -11,6 +11,6 @@ const SearchBox = ({placeholder,handleSearch}:SearchProps)=>{
     type="search" 
     placeholder={placeholder}
     onChange={handleSearch}
-    />
+    /> 
 }
 export default SearchBox
